@@ -45,7 +45,7 @@ if(isset($_POST['name']) && !empty($_POST['name'])) {
                         <input type="password" class="form-control" name="password" placeholder="Password">
                     </div>
                     <div class="col-md-4 mb-3">
-                        <button class="btn btn-primary" type="submit">Submit</button>
+                        <button class="btn btn-primary" type="submit">Insert</button>
                     </div>
                 </div>
             </form>

@@ -37,7 +37,7 @@ require 'config.php';
                                             <a href="edit.php?id='.$users['u_id'].'">Edit</a>
                                         </button> 
                                         <button type="button" class="btn btn-danger link">
-                                            <a href="delete.php?id='.$users['u_id'].'">Delete</a>
+                                            <a href="delete-confirm.php?id='.$users['u_id'].'">Delete</a>
                                         </button>
                                   </th>';
                             echo '</tr>';
